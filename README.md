@@ -1,6 +1,6 @@
-<img width="2048" height="768" alt="github-banner" src="https://github.com/user-attachments/assets/4dd32143-6ef4-4049-ad02-5b1d99a4996a" />
+
 <img width="2048" height="768" alt="github-banner" src="https://github.com/user-attachments/assets/7b0e9d8a-e65f-4b44-9906-d342bcfc6c1e" />
-[README.md](https://github.com/user-attachments/files/33192062/README.md)
+
 # Linn-Sund-n<p align="center">
   <img src="github-banner.png" alt="Linn Sunden - Frontend Developer Student">
 </p>
