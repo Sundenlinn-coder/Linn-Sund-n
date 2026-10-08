@@ -1,8 +1,8 @@
 
 <img width="2048" height="768" alt="github-banner" src="https://github.com/user-attachments/assets/7b0e9d8a-e65f-4b44-9906-d342bcfc6c1e" />
 
-# Linn-Sund-n<p align="center">
-  <img src="github-banner.png" alt="Linn Sunden - Frontend Developer Student">
+# Linn-Sunden<p align="center">
+
 </p>
 
 <h2 align="center">Hi, I'm Linn 👋</h2>
